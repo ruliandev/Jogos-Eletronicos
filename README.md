@@ -21,6 +21,3 @@ Som e música e animação;
 http://plataforma-gamedu.online/games/mymarket/
 
 Idealização;
-
-#### SoundCloud
-https://soundcloud.com/user-456065582
