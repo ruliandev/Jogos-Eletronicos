@@ -14,7 +14,7 @@ Som e musica;
 ### Death Process
 https://gamejolt.com/games/deathprocess/354186
 
-Som e música e animação;
+Som, música e animação;
 
 
 ### My Market
