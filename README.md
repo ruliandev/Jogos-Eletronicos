@@ -1,5 +1,5 @@
-# Jogos-Eletronicos
-Jogos eletrônicos os quais participei do desenvolvimento.
+# Jogos-Eletrônicos
+Jogos eletrônicos desenvolvidos.
 
 ### Smash Cat
 https://gamejolt.com/games/smashcat/460248
